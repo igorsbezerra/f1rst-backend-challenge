@@ -1,0 +1,23 @@
+[submodule "api-account-challenge"]
+    path = api-account-challenge
+    url = git@github.com:igorsbezerra/api-account-challenge.git
+
+[submodule "api-transactions-challenge"]
+    path = api-transactions-challenge
+    url = git@github.com:igorsbezerra/api-transactions-challenge.git
+
+[submodule "api-user-challenge"]
+    path = api-user-challenge
+    url = git@github.com:igorsbezerra/api-user-challenge.git
+
+[submodule "camel-account-challenge"]
+    path = camel-account-challenge
+    url = git@github.com:igorsbezerra/camel-account-challenge.git
+
+[submodule "camel-transaction-challenge"]
+    path = camel-transaction-challenge
+    url = git@github.com:igorsbezerra/camel-transaction-challenge.git
+
+[submodule "camel-user-challenge"]
+    path = camel-user-challenge
+    url = git@github.com:igorsbezerra/camel-user-challenge.git
